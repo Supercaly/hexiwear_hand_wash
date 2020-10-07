@@ -1,0 +1,16 @@
+# CLion filed
+.idea/
+
+# mbed files
+__pycache__
+BUILD/
+mbed_settings.py
+mbed-os/
+
+# Libraries
+FXAS21002/
+FXOS8700/
+Hexi_OLED_SSD1351/
+
+# VScode files
+.vscode
