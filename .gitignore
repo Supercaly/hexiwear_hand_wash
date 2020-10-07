@@ -1,6 +1,9 @@
 # CLion filed
 .idea/
 
+# VScode files
+.vscode
+
 # mbed files
 __pycache__
 BUILD/
@@ -12,5 +15,10 @@ FXAS21002/
 FXOS8700/
 Hexi_OLED_SSD1351/
 
-# VScode files
-.vscode
+# CMake files
+CMakeLists.txt
+mbed_config.h
+
+# Various files
+GettingStarted.html
+
